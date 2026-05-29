@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervonnect",
+        "uuid": 34302488,
+        "checksum": "q6on38"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
